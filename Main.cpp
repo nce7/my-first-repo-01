@@ -1,1 +1,2 @@
-# include Warrior.h
+# include Character.h
+int main () {}
